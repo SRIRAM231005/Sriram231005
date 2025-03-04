@@ -24,16 +24,6 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; align-items: center; gap: 20px;">
-    <div>
-        <div><img src="https://github-readme-stats.vercel.app/api?username=SRIRAM231005&show_icons=true&theme=tokyonight"></div>
-        <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRIRAM231005&layout=compact&theme=radical&langs_count=6"></div>
-    </div>
-    <div>
-        <div><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"></div>
-    </div>
-</div>
-
 ![Sriram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRIRAM231005&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SRIRAM231005&layout=compact&theme=radical&langs_count=6)
@@ -42,9 +32,9 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SRIRAM231005&show_icons=true&theme=dark" width="400">
+      <img src="https://github-readme-stats.vercel.app/api?username=SRIRAM231005&show_icons=true&theme=tokyonight">
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRIRAM231005&layout=compact&theme=dark" width="400">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRIRAM231005&layout=compact&theme=radical&langs_count=6">
     </td>
     <td>
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
