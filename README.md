@@ -16,6 +16,8 @@
 ## 📊 GitHub Stats
 ![Sriram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRIRAM231005&show_icons=true&theme=tokyonight)
 
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SRIRAM231005&theme=tokyonight)](https://github.com/SRIRAM231005)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SRIRAM231005&theme=tokyonight)
 
 
