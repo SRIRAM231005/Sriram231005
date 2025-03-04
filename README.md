@@ -18,9 +18,7 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SRIRAM231005&theme=tokyonight)](https://github.com/SRIRAM231005)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=SRIRAM231005&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=SRIRAM231005&theme=tokyonight&hide_border=true&v=1)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SRIRAM231005&theme=tokyonight&hide_border=true&mode=weekly)
 
 
 
