@@ -25,9 +25,9 @@
 ## 📊 GitHub Stats
 
 <div style="display: flex; gap: 20px;">
-    <div style="display: flex; flex-direction: column; gap: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=SRIRAM231005&show_icons=true&theme=dark" width="400">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRIRAM231005&layout=compact&theme=dark" width="400">
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=SRIRAM231005&show_icons=true&theme=tokyonight">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRIRAM231005&layout=compact&theme=radical&langs_count=6">
     </div>
     <div>
         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
