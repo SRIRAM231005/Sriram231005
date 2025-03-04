@@ -39,6 +39,20 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SRIRAM231005&layout=compact&theme=radical&langs_count=6)
 
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=SRIRAM231005&show_icons=true&theme=dark" width="400">
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRIRAM231005&layout=compact&theme=dark" width="400">
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+    </td>
+  </tr>
+</table>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
