@@ -33,7 +33,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRIRAM231005&layout=compact&theme=radical&langs_count=6">
     </td>
     <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+      <img src="https://images.app.goo.gl/UhtDnafEz5LXrAMM7" width="300">
     </td>
   </tr>
 </table>
