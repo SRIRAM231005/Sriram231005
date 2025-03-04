@@ -18,7 +18,7 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SRIRAM231005&theme=tokyonight)](https://github.com/SRIRAM231005)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SRIRAM231005&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SRIRAM231005&theme=tokyonight&hide_border=true)
 
 
 <h3 align="left">Languages and Tools:</h3>
