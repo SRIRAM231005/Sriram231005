@@ -41,7 +41,7 @@
 </table>
 
 
-## Connect with Me
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-profile">
     <img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="40"/>
