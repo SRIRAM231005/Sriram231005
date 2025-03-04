@@ -8,15 +8,22 @@
 
 - ⚡ Fun fact **Apart from Computer Science I also have some interest in Space Science 😁**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/@bsriram231005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@bsriram231005" height="30" width="40" /></a>
+## Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/your-instagram-profile">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </p>
+
 
 ## 📊 GitHub Stats
 ![Sriram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SRIRAM231005&show_icons=true&theme=tokyonight)
-
-![Pull Requests](https://img.shields.io/github/issues-pr/SRIRAM231005?style=for-the-badge)
 
 
 
