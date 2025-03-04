@@ -3,10 +3,9 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **C, C++, Java 🌐**
-- 🎓 Computer Science Student at **NITK Surathkal** 
-
-- ⚡ Fun fact **Apart from Computer Science I also have some interest in Space Science 😁**
+- 💻 I’m a Full Stack Web Developer
+- 🎓 Computer Science Student @ **NITK Surathkal**
+- 🚀 Fun fact **I am also a Space Enthusiast**
 
 ## 🛠 Languages and Tools
 
@@ -43,13 +42,13 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/b-sri-ram-561b60288/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="40"/>
   </a>
-  <a href="https://www.instagram.com/your-instagram-profile">
+  <a href="https://www.instagram.com/bsriram231005?igsh=dnljMHlxcHg4cGdn">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" height="40"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:sriram.bangam@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" height="40"/>
   </a>
 </p>
