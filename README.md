@@ -9,23 +9,14 @@
 
 ## 🛠 Languages and Tools
 
-### Languages
-![Languages](https://skillicons.dev/icons?i=c,cpp,js,java,python)
-
-### Frontend
-![Frontend](https://skillicons.dev/icons?i=react,tailwind,html,css)
-
-### Backend & APIs
-![Backend](https://skillicons.dev/icons?i=nodejs,express)
-
-### Databases & Cloud
-![Databases & Cloud](https://skillicons.dev/icons?i=mongodb,mysql,docker,aws)
-
-### Deep Learning / Research
-![Deep Learning](https://skillicons.dev/icons?i=python,pytorch)
-
-### Developer Tools
-![Tools](https://skillicons.dev/icons?i=git,linux)
+| **Category** | **Skills** |
+|------------|-----------|
+| **Languages** | ![Languages](https://skillicons.dev/icons?i=c,cpp,js,java,python) |
+| **Frontend** | ![Frontend](https://skillicons.dev/icons?i=react,tailwind,html,css) |
+| **Backend & APIs** | ![Backend](https://skillicons.dev/icons?i=nodejs,express) |
+| **Databases & Cloud** | ![DB & Cloud](https://skillicons.dev/icons?i=mongodb,mysql,docker,aws) |
+| **Deep Learning / Research** | ![DL](https://skillicons.dev/icons?i=python,pytorch) |
+| **Developer Tools** | ![Tools](https://skillicons.dev/icons?i=git,linux) |
 
 
 
