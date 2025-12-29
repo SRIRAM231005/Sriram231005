@@ -3,24 +3,30 @@
 
 ## 🚀 About Me
 
-- 💻 I’m a Full Stack Web Developer
-- 🎓 Computer Science Student @ **NITK Surathkal**
-- 🚀 Fun fact **I am also a Space Enthusiast**
+- I’m a Full Stack Web Developer
+-  Computer Science Student @ **NITK Surathkal**
+-  Fun fact **I am also a Space Enthusiast**
 
 ## 🛠 Languages and Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60" style="margin: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" style="margin: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60" style="margin: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" height="60" style="margin: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="60" height="60" style="margin: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60" style="margin: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="60" height="60" style="margin: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60" style="margin: 20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" style="margin: 20px;"/>
-</p>
+### Languages
+![Languages](https://skillicons.dev/icons?i=c,cpp,js,java,python)
+
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=react,tailwind,html,css)
+
+### Backend & APIs
+![Backend](https://skillicons.dev/icons?i=nodejs,express)
+
+### Databases & Cloud
+![Databases & Cloud](https://skillicons.dev/icons?i=mongodb,mysql,docker,aws)
+
+### Deep Learning / Research
+![Deep Learning](https://skillicons.dev/icons?i=python,pytorch)
+
+### Developer Tools
+![Tools](https://skillicons.dev/icons?i=git,linux)
+
 
 
 ## 📊 GitHub Stats
