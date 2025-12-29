@@ -9,15 +9,76 @@
 
 ## 🛠 Languages and Tools
 
-| **Category** | **Skills** |
-|------------|-----------|
-| **Languages** | ![Languages](https://skillicons.dev/icons?i=c,cpp,js,java,python) |
-| **Frontend** | ![Frontend](https://skillicons.dev/icons?i=react,tailwind,html,css) |
-| **Backend & APIs** | ![Backend](https://skillicons.dev/icons?i=nodejs,express) |
-| **Databases & Cloud** | ![DB & Cloud](https://skillicons.dev/icons?i=mongodb,mysql,docker,aws) |
-| **Deep Learning / Research** | ![DL](https://skillicons.dev/icons?i=python,pytorch) |
-| **Developer Tools** | ![Tools](https://skillicons.dev/icons?i=git,linux) |
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48"/>
+      <br/>C
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/>
+      <br/>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/>
+      <br/>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
+      <br/>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
+      <br/>Python
+    </td>
+  </tr>
 
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/>
+      <br/>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/>
+      <br/>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48"/>
+      <br/>Express
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/>
+      <br/>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/>
+      <br/>MySQL
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/>
+      <br/>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48"/>
+      <br/>PyTorch
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
+      <br/>NumPy
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
+      <br/>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48"/>
+      <br/>Linux
+    </td>
+  </tr>
+</table>
 
 
 ## 📊 GitHub Stats
