@@ -1,11 +1,11 @@
 <h1 align="center">🔶🔸 Hi 👋, I'm B Sriram 🔸🔶</h1>
-<h3 align="center">A passionate Programmer 👨‍💻🎯</h3>
+<!--<h3 align="center">A passionate Programmer 👨‍💻🎯</h3>-->
 
 ## 🚀 About Me
 
-- I’m a Full Stack Web Developer
--  Computer Science Student @ **NITK Surathkal**
--  Fun fact **I am also a Space Enthusiast**
+Hi, I’m Sriram, a Computer Science undergrad at NITK Surathkal. I enjoy building things that actually work, breaking down complex ideas, and thinking through systems end-to-end. I learn best by doing.
+
+Beyond coding, I’m fascinated by space, astronomy, and understanding how things work at a cosmic scale. Always curious, always improving.
 
 ## 🛠 Languages and Tools
 
@@ -43,7 +43,7 @@
       <br/>Node.js
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48"/>
+      <img src="https://skillicons.dev/icons?i=express" width="48"/>
       <br/>Express
     </td>
     <td align="center" width="90">
@@ -88,8 +88,6 @@
   <tr>
     <td>
       <img src="https://github-readme-stats-fast.vercel.app/api?username=SRIRAM231005&show_icons=true&theme=tokyonight">
-      <br>
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SRIRAM231005&layout=compact&theme=radical&langs_count=6">
     </td>
     <td>
       <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="400px" height="400px">
@@ -101,13 +99,10 @@
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/b-sri-ram-561b60288/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/bsriram231005?igsh=dnljMHlxcHg4cGdn">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" height="40"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="80"/>
   </a>
   <a href="mailto:sriram.bangam@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" height="40"/>
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" height="80"/>
   </a>
 </p>
 
